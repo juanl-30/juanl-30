@@ -1,10 +1,6 @@
 ### Hola, soy Juan Leon👋
 
-<img src="https://komarev.com/ghpvc/?username=juanl-30" alt="anandmainali" />
 
-### Programming Languages 🌐
-
- 
 <!--
 **juanl-30/juanl-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
